@@ -1,2 +1,2 @@
-# Database_Queries
-A collection of SQL and database projects to practice queries and design.  Projects demonstrating SQL queries, joins, and database management.
+DAY 1 of Learning SQL- DDL Commands.
+A collection of DDL SQL commands practiced to get hands on with database projects.  Projects demonstrating SQL queries and database management.
